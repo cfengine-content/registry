@@ -7,6 +7,9 @@ A repository to serve as a place to link to other great cfengine content
 ## Linux Kernel
 - [nickanderson/cfengine-linux_kernel](https://github.com/nickanderson/cfengine-linux_kernel)
 
+## Local Users
+- [nickanderson/cfengine-local_users](https://github.com/nickanderson/cfengine-local_users)
+
 ## NTP
   - [nickanderson/cfengine-ntp](https://github.com/nickanderson/cfengine-ntp)
 
