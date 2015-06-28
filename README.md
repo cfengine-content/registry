@@ -16,6 +16,9 @@ A repository to serve as a place to link to other great cfengine content
 ## NTP
  - [nickanderson/cfengine-ntp](https://github.com/nickanderson/cfengine-ntp)
 
+## RPM Database
+ - [nickanderson/cfengine-rpmdb](https://github.com/nickanderson/cfengine-rpmdb)
+
 ## Snippets
  - [jpvlsmv/cfengine-snippets](https://github.com/jpvlsmv/cfengine-snippets)
 
