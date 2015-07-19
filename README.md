@@ -4,6 +4,9 @@ A repository to serve as a place to link to other great cfengine content
 ## CVE
  - [nickanderson/cfengine-CVE_2015_0235](https://github.com/nickanderson/cfengine-CVE_2015_0235) (GHOST)
 
+## File Integrity Monitoring
+ - [nickanderson/cfengine-file_integrity_monitoring](https://github.com/nickanderson/cfengine-file_integrity_monitoring)
+
 ## Firewall
  - [trondham/cfengine-firewalld](https://github.com/trondham/cfengine-firewalld)
  
