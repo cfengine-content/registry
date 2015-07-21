@@ -22,6 +22,9 @@ A repository to serve as a place to link to other great cfengine content
 ## RPM Database
  - [nickanderson/cfengine-rpmdb](https://github.com/nickanderson/cfengine-rpmdb)
 
+## SSH
+ - [nickanderson/cfengine-ssh](https://github.com/nickanderson/cfengine-ssh)
+
 ## Snippets
  - [jpvlsmv/cfengine-snippets](https://github.com/jpvlsmv/cfengine-snippets)
 
