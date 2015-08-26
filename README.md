@@ -1,6 +1,9 @@
 # registry
 A repository to serve as a place to link to other great cfengine content
 
+## Center for Internet Security (CIS)
+ - [nickanderson/cfengine-cis](https://github.com/nickanderson/cfengine-cis)
+
 ## CVE
  - [nickanderson/cfengine-CVE_2015_0235](https://github.com/nickanderson/cfengine-CVE_2015_0235) (GHOST)
 
