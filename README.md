@@ -28,6 +28,9 @@ A repository to serve as a place to link to other great cfengine content
 ## RPM Database
  - [nickanderson/cfengine-rpmdb](https://github.com/nickanderson/cfengine-rpmdb)
 
+## rtcwake (Wake hosts from sleep)
+ - [nickanderson/cfengine-rtcwake](https://github.com/nickanderson/cfengine-rtcwake)
+
 ## SELINUX
  - [moonkid/contrib/selinux](https://github.com/moonkid196/contrib/tree/selinux/selinux)
 
