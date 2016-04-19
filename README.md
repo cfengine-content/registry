@@ -6,6 +6,7 @@ A repository to serve as a place to link to other great cfengine content
 
 ## CVE
  - [nickanderson/cfengine-CVE_2015_0235](https://github.com/nickanderson/cfengine-CVE_2015_0235) (GHOST)
+ - [nickanderson/cfengine-CVE-2016-2118](https://github.com/nickanderson/cfengine-CVE-2016-2118) (Badlock)
 
 ## EC2
  - [ecs-hk/ec2-cfengine37](https://github.com/ecs-hk/ec2-cfengine37)
