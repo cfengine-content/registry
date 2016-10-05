@@ -40,6 +40,7 @@ A repository to serve as a place to link to other great cfengine content
 
 ## Snippets
  - [jpvlsmv/cfengine-snippets](https://github.com/jpvlsmv/cfengine-snippets)
+ - [LINDEN-IT-NET/cfengine-examples](https://github.com/LINDEN-IT-NET/cfengine-examples)
 
 ## Sysctl
  - [nickanderson/cfengine-sysctl](https://github.com/nickanderson/cfengine-sysctl)
