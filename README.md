@@ -23,6 +23,9 @@ A repository to serve as a place to link to other great cfengine content
 ## Local Users
  - [nickanderson/cfengine-local_users](https://github.com/nickanderson/cfengine-local_users)
 
+## Mustache Templating with JSON
+ - [basvandervlies/cf_surfsara_lib](https://github.com/basvandervlies/cf_surfsara_lib)
+ 
 ## NTP
  - [nickanderson/cfengine-ntp](https://github.com/nickanderson/cfengine-ntp)
 
@@ -44,6 +47,6 @@ A repository to serve as a place to link to other great cfengine content
 
 ## Sysctl
  - [nickanderson/cfengine-sysctl](https://github.com/nickanderson/cfengine-sysctl)
-
+ 
 ## Yum
  - [nickanderson/cfengine-yum](https://github.com/nickanderson/cfengine-yum)
