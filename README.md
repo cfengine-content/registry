@@ -4,6 +4,9 @@ A repository to serve as a place to link to other great cfengine content
 ## Center for Internet Security (CIS)
  - [nickanderson/cfengine-cis](https://github.com/nickanderson/cfengine-cis)
 
+## Chkconfig
+  - [nickanderson/cfengine-chkconfig](https://github.com/nickanderson/chkconfig)
+  
 ## CVE
  - [nickanderson/cfengine-CVE_2015_0235](https://github.com/nickanderson/cfengine-CVE_2015_0235) (GHOST)
  - [nickanderson/cfengine-CVE-2016-2118](https://github.com/nickanderson/cfengine-CVE-2016-2118) (Badlock)
