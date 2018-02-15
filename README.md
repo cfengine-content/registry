@@ -44,6 +44,9 @@ A repository to serve as a place to link to other great cfengine content
 ## SSH
  - [nickanderson/cfengine-ssh](https://github.com/nickanderson/cfengine-ssh)
 
+## Smartos Metadata
+ - [bahamat/cfengine-smartos-metadata](https://github.com/bahamat/cfengine-smartos-metadata)
+
 ## Snippets
  - [jpvlsmv/cfengine-snippets](https://github.com/jpvlsmv/cfengine-snippets)
  - [LINDEN-IT-NET/cfengine-examples](https://github.com/LINDEN-IT-NET/cfengine-examples)
